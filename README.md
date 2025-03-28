@@ -1,11 +1,11 @@
-Stanford CS 144 Networking Lab
+nju_minnow
 ==============================
 
-These labs are open to the public under the (friendly) request that to
-preserve their value as a teaching tool, solutions not be posted
-publicly by anybody.
+Stanford cs144课程的代码个人实现。本代码为本校课程定制，与cs144原版略有不同。
 
-Website: https://cs144.stanford.edu
+cs144课程网址: https://cs144.stanford.edu
+
+运行方式：
 
 To set up the build system: `cmake -S . -B build`
 
